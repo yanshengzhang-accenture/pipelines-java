@@ -1,4 +1,4 @@
-(https://dev.azure.com/yanshengzhang-accenture/First%20Pipeline/_apis/build/status/yanshengzhang-accenture.pipelines-java?branchName=master)](https://dev.azure.com/yanshengzhang-accenture/First%20Pipeline/_build/latest?definitionId=4&branchName=master)
+[![Build Status](https://dev.azure.com/yanshengzhang-accenture/First%20Pipeline/_apis/build/status/yanshengzhang-accenture.pipelines-java?branchName=master)](https://dev.azure.com/yanshengzhang-accenture/First%20Pipeline/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
